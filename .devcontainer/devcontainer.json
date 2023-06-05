@@ -87,6 +87,6 @@
 	// If there's a Gemfile, then restore
 	// It's assumed that the Gemfile will install Jekyll and GitHub Pages too
 	"postCreateCommand": {
-		"restore": "bundle install"
+		"restore": "bundle install & git config pull.rebase true"
 	}
 }
