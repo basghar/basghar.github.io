@@ -131,3 +131,9 @@ Companies with a culture of continuous learning understand that personal growth 
 **5. Open Source Contributions and Community Engagement:**
 
 Open source contributions reflect a company's dedication to transparency, collaboration, and collective learning. These contributions offer opportunities to interact with a larger developer community, enhancing your skill-set and visibility. 
+
+**6. Companies with flexible technology strategy or heterogeneous tech stack:**
+
+A progressive software company understands the evolving nature of technology and doesn't confine itself to a single technology stack. Such companies promote a heterogeneous architecture that embraces the best technology suited for the task at hand, rather than sticking rigidly to a specific tech stack. This open-minded approach not only helps them stay abreast of technological advancements but also addresses potential workforce shortages associated with aging technologies.
+
+Moreover, adopting new technologies also presents exciting learning opportunities for their employees, fostering an environment of continual growth and skill enhancement. In essence, these companies understand that in a dynamic tech landscape, adaptation and evolution are not just beneficial, but crucial for sustainable success.
