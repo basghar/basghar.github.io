@@ -1,12 +1,12 @@
 ---
-title: Recognizing a Software Development firm that promotes career advancement
+title: Recognizing a software development firm that promotes career advancement
 ---
 
 To plan your path in the ever-changing tech world, you need to choose a software company that can boost your career. This guide aims to equip you with key insights to identify those characteristics in a software development company that can significantly contribute to your professional evolution.
 
 The decision of choosing the right company carries immense importance. Aligning yourself with a company that incorporates the best practices in software development can present abundant opportunities for skill enhancement, networking, and career advancement. Moreover, it's worth noting that companies also value engineers who are conversant with these strategies and methodologies. Thus, familiarizing yourself with these practices can not only help you in selecting the right company but also make you a more attractive prospect to potential employers.
 
-**1. Agile and Collaborative Environment:**
+**1. Agile and collaborative environment:**
 
 Agile and collaborative environments are often hallmarks of successful software companies because these environments promote adaptability, continuous improvement, and a customer-centric approach. 
 
@@ -25,7 +25,7 @@ Strategies and practices that fall under an Agile & collaborative environment:
 
 2. **Kanban**: This is a lean method to manage and improve work across a system. It aims to balance demands with available capacity, and improve the handling of system-level bottlenecks. Work items are visually displayed on a kanban board, allowing team members to see the state of every piece of work at any time.
 
-    [Kanban Introduction](https://www.youtube.com/watch?v=Utkrn7bmHuM) [Youtube]<br>
+    [Kanban introduction](https://www.youtube.com/watch?v=Utkrn7bmHuM) [Youtube]<br>
     [Scrum vs Kanban](https://www.youtube.com/watch?v=rIaz-l1Kf8w) [Youtube]
 
 3. **Stand-ups**: These are short daily meetings where team members discuss what they did the previous day, what they plan to do today, and any blockers they are facing. This fosters communication, identifies impediments early, and helps keep the project on track.
@@ -40,7 +40,7 @@ Strategies and practices that fall under an Agile & collaborative environment:
 
 In summary, an agile and collaborative environment allows a software company to create quality products that satisfy customer needs, adapt to change, foster a positive and productive work culture, and ultimately, succeed in the market.
 
-**2. Embracing Modern Practices:**
+**2. Embracing modern practices:**
 
 In the ever-evolving landscape of the software industry, companies are continually in pursuit of modern research, innovative technologies, and advanced software practices. The drive to stay ahead of the curve compels them to seek out and adopt cutting-edge methodologies that enhance efficiency, boost productivity, and foster creativity. 
 
@@ -62,73 +62,73 @@ Infrastructure as Code (IaC) in the context of DevOps, is not only used to speci
 
     [Basics](https://www.youtube.com/watch?v=F5KJVuii0Yw) [Youtube]
 
-* **API-First Development**: This practice means that a company is designing their software to be versatile and integratable, enabling seamless interaction between different software components. It is a design approach where you first build the Application Programming Interface (API) for a piece of software before you start building the software itself.
+* **API-First development**: This practice means that a company is designing their software to be versatile and integratable, enabling seamless interaction between different software components. It is a design approach where you first build the Application Programming Interface (API) for a piece of software before you start building the software itself.
 
     [Introduction](https://www.youtube.com/watch?v=TduSd1XfP7k) [Youtube]
 
-* **Microservices Architecture**: A company embracing this practice shows a commitment to scalability, resilience, and agility in their software development. This architecture style allows independent deployment of different parts of a system, improving speed and productivity of the development teams.
+* **Microservices architecture**: A company embracing this practice shows a commitment to scalability, resilience, and agility in their software development. This architecture style allows independent deployment of different parts of a system, improving speed and productivity of the development teams.
 
     [What is it all about?](https://www.youtube.com/watch?v=lTAcCNbJ7KE) [Youtube]
 
-* **Cloud-Native Development**: The utilization of cloud-native architectures also signifies a company's commitment to scalability, resilience, and agility. It indicates that the company leverages the latest cloud technologies, such as managed services and serverless computing, to deliver their applications.
+* **Cloud-Native development**: The utilization of cloud-native architectures also signifies a company's commitment to scalability, resilience, and agility. It indicates that the company leverages the latest cloud technologies, such as managed services and serverless computing, to deliver their applications.
 
     [What is it really?](https://www.youtube.com/watch?v=p-88GN1WVs8) [Youtube]
 
-**3. Ensuring Software Quality:**
+**3. Ensuring software quality:**
 
 Companies that prioritize the quality of their software employ several strategies to make sure their product works as expected and delivers an excellent user experience. High-quality software doesn't happen by accident. It's a result of rigorous, well-implemented practices that encompass the entire development process. Here are some of the strategies that companies employ to ensure software quality:
 
 * **Automated testing**: Automated tests run a suite of pre-scripted tests to ensure code correctness. It ranges from unit testing (verifying individual components), through integration testing (testing component interactions), to end-to-end (e2e) testing (validating the system works together as a whole). 
     
-    [Introduction to Automated Testing](https://www.youtube.com/watch?v=6ZDTi7hjhJ4) [Youtube]
+    [Introduction to automated testing](https://www.youtube.com/watch?v=6ZDTi7hjhJ4) [Youtube]
 
-* **Unit Testing**: This type of testing involves examining individual components of a program separately to ensure they function correctly. These tests are typically written and maintained by developers themselves and are automated to run whenever changes are made. They help catch bugs early in the development process and facilitate the addition of new features or refactoring of existing code.
+* **Unit testing**: This type of testing involves examining individual components of a program separately to ensure they function correctly. These tests are typically written and maintained by developers themselves and are automated to run whenever changes are made. They help catch bugs early in the development process and facilitate the addition of new features or refactoring of existing code.
   
-  [Unit Testing](https://www.youtube.com/watch?v=TWbdw3Nvlok) [Youtube]
+  [Unit testing](https://www.youtube.com/watch?v=TWbdw3Nvlok) [Youtube]
 
-* **Integration Testing**: This goes a step beyond unit testing and tests how the individual units of a program work together. This ensures that the system as a whole functions correctly and can catch issues that may not be evident when units are tested individually. 
+* **Integration testing**: This goes a step beyond unit testing and tests how the individual units of a program work together. This ensures that the system as a whole functions correctly and can catch issues that may not be evident when units are tested individually. 
   
-   [Integration Testing](https://www.youtube.com/watch?v=HhNIttd87xs) [Youtube]
+   [Integration testing](https://www.youtube.com/watch?v=HhNIttd87xs) [Youtube]
 
 * **End-to-end (e2e) testing**: End-to-end (e2e) testing is a methodology used to verify whether a system works as intended from start to finish, from the point of user interaction to the database or server and back. In essence, it simulates real user scenarios to ensure all interconnected components of an application work harmoniously together. 
 
     For instance, in a shopping app, an end-to-end test might involve logging in, searching for a product, adding it to the cart, checking out, and verifying that the order shows correctly in the user's order history.
 
-    [End-to-End Testing](https://www.youtube.com/watch?v=7YD5GJYuBr0) [Youtube]
+    [End-to-End testing](https://www.youtube.com/watch?v=7YD5GJYuBr0) [Youtube]
 
-* **Performance Testing**: This process examines how a system performs under load, ensuring that it will remain responsive and stable even when under heavy use. 
+* **Performance testing**: This process examines how a system performs under load, ensuring that it will remain responsive and stable even when under heavy use. 
     
-    [Performance Testing](https://www.youtube.com/watch?v=vgZhrEs4tuk) [Youtube]
+    [Performance testing](https://www.youtube.com/watch?v=vgZhrEs4tuk) [Youtube]
 
-* **Security Audits**: Regular security audits can help to identify potential vulnerabilities in the code and address them before they become a problem. This is particularly important for any software that handles sensitive user data. 
+* **Security audits**: Regular security audits can help to identify potential vulnerabilities in the code and address them before they become a problem. This is particularly important for any software that handles sensitive user data. 
     
-    [Security Audits](https://www.youtube.com/watch?v=0gaAKk1i0Yg) [Youtube]
+    [Security audits](https://www.youtube.com/watch?v=0gaAKk1i0Yg) [Youtube]
 
-* **Usability Testing**: This involves testing the user interface and overall user experience of the software to ensure it is intuitive and easy to use. This can be done through various methods, such as user surveys, A/B testing, and user testing sessions. 
+* **Usability testing**: This involves testing the user interface and overall user experience of the software to ensure it is intuitive and easy to use. This can be done through various methods, such as user surveys, A/B testing, and user testing sessions. 
     
-    [Usability Testing](https://www.youtube.com/watch?v=0YL0xoSmyZI) [Youtube]
+    [Usability testing](https://www.youtube.com/watch?v=0YL0xoSmyZI) [Youtube]
 
 By utilizing these quality assurance practices, companies not only deliver high-quality, reliable software but also provide a productive, learning-oriented environment for their developers. The adoption of these methods indicates a strong commitment to quality and a culture of continuous improvement.
 
-**4. A Culture of Continuous Learning:**
+**4. A Culture of continuous learning:**
 
 In a thriving software company, a culture of continuous learning is deeply embedded, facilitating professional development through diverse platforms and resources. 
 
 Such companies demonstrate a substantial emphasis on learning initiatives, acknowledging them as essential strategies for staying competitive in the rapidly evolving tech industry. Evidence of this commitment can often be found in the way they foster and promote a variety of learning opportunities. They either orchestrate internal initiatives or sponsor their employees to participate in external events. This could include:
 
-* **Tech Talks**: These are informative sessions where experts discuss technological trends, new tools, techniques, or methodologies.
+* **Tech talks**: These are informative sessions where experts discuss technological trends, new tools, techniques, or methodologies.
 * **Coding Dojos/Mob programming**: `Coding Dojos` and `Mob Programming` are collective approaches to software development. Coding Dojos are structured practice sessions where programmers collectively tackle problems to improve their skills, while Mob Programming is a method where the whole team collaboratively works on the same task, capitalizing on diverse skills and viewpoints to deliver quality code.
-* **Training Programs**: These are structured programs designed to enhance specific skills or knowledge areas.
-* **Workshops and Conferences**: These are professional events that provide opportunities to learn from industry leaders, share ideas, and network with other professionals.
+* **Training programs**: These are structured programs designed to enhance specific skills or knowledge areas.
+* **Workshops and conferences**: These are professional events that provide opportunities to learn from industry leaders, share ideas, and network with other professionals.
 
 In addition to these, certain companies leverage their existing workflow for continuous training and learning.
 
-* **Pair Programming**: This is a methodology where two developers work on the same code at one workstation, promoting knowledge sharing, problem-solving, and a culture of collaborative learning.
-* **Code Reviews**: These are systematic examinations of code by colleagues, providing developers the chance to learn from their peers, understand different problem-solving approaches, and receive constructive feedback to improve code quality.
+* **Pair programming**: This is a methodology where two developers work on the same code at one workstation, promoting knowledge sharing, problem-solving, and a culture of collaborative learning.
+* **Code reviews**: These are systematic examinations of code by colleagues, providing developers the chance to learn from their peers, understand different problem-solving approaches, and receive constructive feedback to improve code quality.
 
 Companies with a culture of continuous learning understand that personal growth is a journey. They are committed to supporting their employees on this path by providing regular feedback, promoting self-improvement, and encouraging up-skilling. Aligning yourself with such a company can significantly enhance your professional growth and opportunities.
 
-**5. Open Source Contributions and Community Engagement:**
+**5. Open source contributions and community engagement:**
 
 Open source contributions reflect a company's dedication to transparency, collaboration, and collective learning. These contributions offer opportunities to interact with a larger developer community, enhancing your skill-set and visibility. 
 
