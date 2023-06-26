@@ -7,7 +7,7 @@ In the modern age, the software industry is not confined to geographical limits.
 ## Advantages of working remotely for global companies
 
 1. ### Gaining proficiency in software development practices
-International companies often prioritize software development practices more extensively than many local companies in the Pakistani software industry, overlooking the long-term benefits primarily due to initial cost considerations. This exposure to methodologies like Agile, DevOps, continuous integration/deployment, and test-driven development equips Pakistani graduates with competitive skills sought after in the global job market.
+International companies often prioritize software development practices more extensively than many local companies that overlook the long-term benefits in these practices, primarily due to initial cost considerations. Working for international organization provides practical exposure to methodologies like Agile, DevOps, continuous integration/deployment and test-driven development.
 
 1. ### Significant financial benefits
 Receiving payment in a robust foreign currency, such as the USD or EUR, proves highly advantageous due to the continuous depreciation of the local currency. While an hourly wage of 15~20 USD may be considered lower-end globally, it translates into a substantial monthly income when compared to local Pakistani salaries. For instance, an hourly wage of USD 15/hr roughly converts to 600,000 PKR per month. Despite the ongoing economic challenges and political instability in Pakistan, there is a noticeable trend towards migration. However, it's crucial to consider the relatively high cost of living in many preferred migration destinations, which can potentially impact the savings ratio. Despite the increasing inflation in Pakistan, international remittances offer lucrative earnings that can still maintain a highly advantageous earning-to-saving ratio, with seasoned professionals earning up to USD 50/hr, equivalent to approximately 2,000,000 PKR per month.
@@ -79,7 +79,8 @@ A compelling professional profile plays a pivotal role in attracting potential e
     Bootcamps are intensive training programs that equip individuals with in-demand skills in a relatively short period. They often focus on practical experience and hands-on learning. Participating in a bootcamp can enhance your technical skills and make you more attractive to remote job recruiters.
 
     [Scrimba](https://scrimba.com/bootcamp) <br>
-    [App academy](https://www.appacademy.io/course/software-engineer-online)
+    [App academy](https://www.appacademy.io/course/software-engineer-online) <br>
+    [Knowledge Streams](https://www.knowledge.tech) <br>
 
 ## Resources for remote work opportunities
 Below are some websites that either specialize in remote opportunities or have distinct sections dedicated to remote jobs.

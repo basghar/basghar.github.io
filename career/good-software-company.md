@@ -19,24 +19,24 @@ Collaboration is integral to any agile methodology. Team members work closely to
 
 Strategies and practices that fall under an Agile & collaborative environment:
 
-1. **Scrum**: This framework organizes teams into small, cross-functional units that work in short iterations or sprints, usually between 1 to 4 weeks. The product backlog (a prioritized list of features or requirements) guides their work. At the end of each sprint, the team reviews their work with stakeholders and plans for the next sprint.
+- **Scrum**: This framework organizes teams into small, cross-functional units that work in short iterations or sprints, usually between 1 to 4 weeks. The product backlog (a prioritized list of features or requirements) guides their work. At the end of each sprint, the team reviews their work with stakeholders and plans for the next sprint.
 
     [Advantages of Scrum](https://www.youtube.com/watch?v=hyz-TE3aRt0)
 
-2. **Kanban**: This is a lean method to manage and improve work across a system. It aims to balance demands with available capacity, and improve the handling of system-level bottlenecks. Work items are visually displayed on a kanban board, allowing team members to see the state of every piece of work at any time.
+- **Kanban**: This is a lean method to manage and improve work across a system. It aims to balance demands with available capacity, and improve the handling of system-level bottlenecks. Work items are visually displayed on a kanban board, allowing team members to see the state of every piece of work at any time.
 
     [Kanban introduction](https://www.youtube.com/watch?v=Utkrn7bmHuM) [Youtube]<br>
     [Scrum vs Kanban](https://www.youtube.com/watch?v=rIaz-l1Kf8w) [Youtube]
 
-3. **Stand-ups**: These are short daily meetings where team members discuss what they did the previous day, what they plan to do today, and any blockers they are facing. This fosters communication, identifies impediments early, and helps keep the project on track.
+- **Stand-ups**: These are short daily meetings where team members discuss what they did the previous day, what they plan to do today, and any blockers they are facing. This fosters communication, identifies impediments early, and helps keep the project on track.
 
     [Effective meetings](https://youtu.be/_3VIC8u1UV8) [Youtube]
 
-4. **Retrospectives**: At the end of each sprint or iteration, the team reflects on its performance and discusses improvements for the next sprint. This continual self-assessment and adjustment is a key aspect of agile development.
+- **Retrospectives**: At the end of each sprint or iteration, the team reflects on its performance and discusses improvements for the next sprint. This continual self-assessment and adjustment is a key aspect of agile development.
 
     [What is it?](https://www.youtube.com/watch?v=5eu1HotNmWs) [Youtube]
 
-5. **Close collaboration with customers and stakeholders**: Regular feedback loops with customers and stakeholders ensure that the product being developed meets their needs and can quickly adapt to changing requirements.
+- **Close collaboration with customers and stakeholders**: Regular feedback loops with customers and stakeholders ensure that the product being developed meets their needs and can quickly adapt to changing requirements.
 
 In summary, an agile and collaborative environment allows a software company to create quality products that satisfy customer needs, adapt to change, foster a positive and productive work culture, and ultimately, succeed in the market.
 
