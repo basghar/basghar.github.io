@@ -102,6 +102,7 @@ Several organizations go beyond merely listing remote jobs. They conduct rigorou
 - [Arc](https://arc.dev)
 - [Lemon](https://lemon.io/for-developers/)
 - [Crossover](https://www.crossover.com)
+- [Gaper.io](https://gaper.io/job/)
 
 For more information on remote work opportunities, consider visiting the following websites:
 
